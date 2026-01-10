@@ -12,7 +12,7 @@ Ce service :
   de features simples (tenure, plaintes, durée de session, type d’abonnement,
   région) ;
 - journalise chaque requête de prédiction dans `logs/predictions.log` au
-  format JSON (une ligne par prédiction).
+  format JSON .
 
 
 Cette API illustre une étape "Serve" dans un pipeline MLOps minimal :
