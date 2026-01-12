@@ -1,0 +1,158 @@
+[
+  {
+    "model_file": "churn_model_v1_20260110_220033.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260110_220033",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260110_220123.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260110_220123",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v2_20260110_221017.joblib",
+    "version": "v2",
+    "trained_at_utc": "20260110_221017",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260111_204956.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260111_204956",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260111_205004.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260111_205004",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260111_211944.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260111_211944",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260111_212153.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260111_212153",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260112_081303.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260112_081303",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20260112_083455.joblib",
+    "version": "v1",
+    "trained_at_utc": "20260112_083455",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233437,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.6,
+    "passed_gate": true
+  }
+]
