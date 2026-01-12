@@ -274,6 +274,7 @@ def main() -> None:
 
     print(f"[OK] Fichier prétraité généré : {PROCESSED_PATH}")
     print(f"[OK] Statistiques d'entraînement générées : {TRAIN_STATS_PATH}")
+    print(f"file prepare_data was changed ")
 
 
 
