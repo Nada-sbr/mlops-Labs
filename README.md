@@ -207,7 +207,8 @@ Enfin, la commande docker compose down a permis de nettoyer proprement l'infrast
 
 <img width="1927" height="2033" alt="image" src="https://github.com/user-attachments/assets/662fb26d-399f-4933-96cd-a0aff1d751f5" />
 
-Étape 15 : lier Docker Compose au reste du cours (Git + DVC)
+## Étape 15 : lier Docker Compose au reste du cours (Git + DVC)
+
 Versionnement du déploiement : On a utilisé git add pour inclure les fichiers de configuration de l'infrastructure (Dockerfile, docker-compose.yml, requirements.txt) dans le suivi Git. Le commit final, "feat: ajout conteneurisation Docker de l'API churn", verrouille la capacité de déploiement dans l'historique du projet.
 <img width="1925" height="894" alt="image" src="https://github.com/user-attachments/assets/48b3ee46-9ca7-4b76-a8bb-e875880f57b0" />
 
